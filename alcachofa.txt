@@ -1,5 +1,9 @@
 Cortamos las alcachofas
+<<<<<<< HEAD
 
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 
+=======
+Que ya la quisiera yo
+>>>>>>> TuMadreTiene
